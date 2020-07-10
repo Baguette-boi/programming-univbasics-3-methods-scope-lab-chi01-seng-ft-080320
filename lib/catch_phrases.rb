@@ -8,5 +8,6 @@ def toadstool
 end
 
 def link 
-  puts 
+  uncle_pharse = "It's Dangerous To Go Alone! Take This."
+  puts uncle_pharse
 end
