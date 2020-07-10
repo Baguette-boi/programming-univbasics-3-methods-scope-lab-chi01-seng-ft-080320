@@ -14,7 +14,7 @@ def link
 end
 
 def all_phrases
-  mario phrase
-  status
-  
+  mario
+  toadstool
+  link
 end
